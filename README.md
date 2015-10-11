@@ -6,6 +6,11 @@ countdown;
 every hour there would be a random video poping up to show people take a break and follow the exercise;
 
 To use: 
+
+https://chrome.google.com/webstore/detail/daycountdown/gldjpdjepgkghlcbfmhgflhhefipahcb
+
+Or
+
 1. Go to chrome setting; Click on extension on the left side.
 2. Enable developer mode.
 3. Load unpacked extension from the path you git clone the extension to.
