@@ -1,17 +1,9 @@
-//credit to https://github.com/nullterminated/ponder. Greatly inspired.
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
-
+    "update_url": "https://clients2.google.com/service/update2/crx",
     "manifest_version": 2,
     "name": "dayCountDown",
     "version": "1.0.1",
     "description": "show the countdown of day a new tab",
-    "icons": {
-        // "16": "img/icon-16.png",
-        // "48": "img/icon-48.png",
-        // "128": "img/icon-128.png",
-        // "1024": "img/icon-1024.png"
-    },
     "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
     "chrome_url_overrides": {
         "newtab": "index.html"
