@@ -1,4 +1,4 @@
-Credit to chrome extension Ponder "https://github.com/nullterminated/ponder", greatly inspired.
+Credit to chrome extension Ponder "https://github.com/thatjpcsguy/ponder", greatly inspired.
 
 CalHack2015! DayCountDown chrome extension!
 Basic Functionality:
